@@ -1,49 +1,52 @@
-# 🎉 Quiz Interativo – Festejando a Conexão Campo e Cidade 🌾🏙️
+# 🌾 Quiz Interativo – Agrinho 2024: Festejando a Conexão Campo e Cidade 🏙️
 
-Este é um projeto de quiz interativo criado com **p5.js**, com o objetivo de explorar e celebrar a conexão entre o campo e a cidade, inspirado pela temática do programa **Agrinho**.
+Este é um quiz interativo desenvolvido com **p5.js**, inspirado na temática do **Agrinho 2025**:  
+**"Festejando a Conexão Campo e Cidade"**.
+
+O objetivo do projeto é promover o conhecimento e a valorização das diferentes realidades do campo e da cidade, por meio de perguntas educativas e envolventes.
+
+---
+
+## 🔗 Acesse o Quiz Online
+
+👉 [**Clique aqui para jogar o quiz!**](https://profeder2024.github.io/agrinho/)
 
 ---
 
 ## 📚 Sobre o Projeto
 
-O quiz apresenta perguntas relacionadas ao campo, à cidade e como essas duas realidades se complementam. É uma forma divertida e educativa de promover o entendimento e valorização das contribuições de ambos os ambientes para a sociedade.
+Este quiz foi criado para ser uma ferramenta lúdica e pedagógica, incentivando alunos e visitantes a refletirem sobre:
 
----
-
-## 💡 Objetivos
-
-- Estimular o aprendizado sobre a vida no campo e na cidade.
-- Valorizar a importância da agricultura, do meio ambiente e da cooperação entre campo e cidade.
-- Desenvolver o pensamento crítico por meio de perguntas interativas.
+- A importância da agricultura e da vida no campo.
+- A interdependência entre áreas urbanas e rurais.
+- A valorização das culturas locais e da sustentabilidade.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [p5.js](https://p5js.org/) – biblioteca JavaScript para arte e interatividade.
-- HTML & CSS – estrutura e estilo da página.
-- GitHub Pages – para hospedagem do projeto online.
+- **p5.js** – biblioteca JavaScript para arte e interatividade.
+- **HTML & CSS** – estrutura e estilo da aplicação.
+- **JavaScript** – lógica do quiz.
+- **GitHub Pages** – para hospedagem gratuita do projeto.
 
 ---
 
-## 🚀 Como Usar
+## 🚀 Como Executar Localmente
 
-1. Clone este repositório ou baixe os arquivos.
-2. Abra o arquivo `index.html` no navegador.
-3. Responda ao quiz e veja seus resultados!
+1. Faça o download ou clone este repositório:
+   ```bash
+   git clone https://github.com/profeder2024/agrinho.git
 
-Você também pode acessar o projeto online aqui:  
-🔗 [**Ver Quiz Online**](https://editor.p5js.org/eder.horst.silva/sketches/6dkA1TDtV)  
-
----
 
 ## ✨ Créditos
 
-Este projeto foi desenvolvido como parte das atividades do **Concurso Agrinho**, com o tema **"Festejando a Conexão Campo Cidade"**.
-Audios acerto.mp3 e erro1.mp3 extraido do endereço : (https://pixabay.com/pt/sound-effects/hit-sound-effect-240898/)
+Este projeto foi desenvolvido como parte das atividades do **Concurso Agrinho**, com o tema **"Festejando a Conexão Campo e Cidade"** nas aulas de **"Programação e Robótica"**.
+
 ---
 
 ## 📌 Licença
 
 Este projeto é de uso educacional e sem fins lucrativos. Fique à vontade para estudar e adaptar para sua realidade!
+Os Efeito sonoro de utilização gratuita extraida do endereço https://pixabay.com/pt/sound-effects/hit-sound-effect-240898/
 
